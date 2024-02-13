@@ -71,13 +71,13 @@ body {
   text-align: left;
 }
 
-.text-box span {
+/* .text-box span {
   visibility: hidden;
-}
+} */
 
 .text-box .fake-btn {
   position: absolute;
-  right: 5px;
+/*   right: 5px; */
   bottom: 5px;
   color: #fff;
   background-color: rgb(21, 161, 237);
@@ -286,11 +286,11 @@ body {
   }
 
   .wish-hbd {
-    font-size: 2.3em;
+    font-size: 1.5em;
   }
 
   .wish h5 {
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 
   .nine p {
